@@ -1,0 +1,23 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "php.validate.run": "onType",
+    "php.suggest.basic": false,
+    "workbench.colorTheme": "Bimbo Theme",
+    "explorer.confirmDragAndDrop": false, // crane will handle it,
+    "editor.rulers": [120],
+    "explorer.autoReveal": false, // stop auto focusing files in explorer
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "window.zoomLevel": 0,
+ }
